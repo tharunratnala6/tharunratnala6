@@ -2,13 +2,7 @@
 
 <h3 align="center">Final Year B.Tech CSE (AI & ML) Student | AI Engineer | Software Developer</h3>
 
-<p align="center">
-
-[Portfolio](https://tharunratnala-portfolio.lovable.app/) |
-[GitHub](https://github.com/tharunratnala6) |
-[LinkedIn](https://www.linkedin.com/in/tharunratnala6/)
-
-</p>
+[Portfolio](https://tharunratnala-portfolio.lovable.app/) | [GitHub](https://github.com/tharunratnala6) | [LinkedIn](https://www.linkedin.com/in/tharunratnala6/)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Java+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=600&height=45">
@@ -21,14 +15,14 @@
 🎓 Final Year **B.Tech Computer Science (AI & ML)** Student
 🏫 **CMR Institute of Technology (2022 – 2026)**
 
-💡 Passionate about:
+💡 Passionate about building intelligent systems using:
 
 • Artificial Intelligence
 • Machine Learning
 • Software Development
 • Backend Engineering
 
-🚀 Currently building **AI systems and scalable software projects**
+🚀 Currently working on **AI systems and scalable software projects**
 
 ---
 
@@ -39,8 +33,8 @@
 **CSIR Fourth Paradigm Institute (CSIR-4PI)**
 
 • Working on **Driver Behavior Detection using CNN models**
-• Building **computer vision pipelines for driver action analysis**
-• Performing **data preprocessing, training and evaluation**
+• Building **computer vision pipelines to analyze driver actions from video streams**
+• Performing **data preprocessing, model training, validation and optimization**
 • Contributing to **research documentation**
 
 ---
@@ -52,43 +46,47 @@
 Project: **Insurance Comparison Policy Platform**
 
 • Developing the **Authentication Module (Auth Module)**
-• Implementing **secure login and authentication systems**
-• Managing **user authorization and access control**
-• Collaborating on **scalable backend architecture**
+• Implementing **secure login & authentication system**
+• Managing **user access control and authorization**
+• Collaborating with developers to build **scalable backend architecture**
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🤖 Automated Smart Attendance System
 
-Tech: Python • OpenCV • Machine Learning
+Tech Stack
+Python • OpenCV • Machine Learning
 
-• Face recognition based attendance system
-• Real-time face detection using OpenCV
+• Developed **face recognition attendance system**
+• Implemented **real-time face detection using OpenCV**
 • Automated classroom attendance tracking
 
 ---
 
 ### 💳 Credit Card Fraud Detection
 
-Tech: Python • Scikit-learn • Random Forest • XGBoost
+Tech Stack
+Python • Scikit-learn • Random Forest • XGBoost
 
-• Machine learning model to detect fraudulent transactions
+• Built ML model to **detect fraudulent credit card transactions**
 • Solved **class imbalance problem**
-• Evaluated model using **ROC curve & confusion matrix**
+• Evaluated performance using **ROC curve & confusion matrix**
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,git,github,mysql,opencv,flask"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
