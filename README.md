@@ -4,6 +4,8 @@
 
 <p align="center">
 
+<p align="center">
+
 🌐 <a href="https://tharunratnala-portfolio.lovable.app/">Portfolio</a> |
 💻 <a href="https://github.com/tharunratnala6">GitHub</a> |
 💼 <a href="https://www.linkedin.com/in/tharunratnala6/">LinkedIn</a>
