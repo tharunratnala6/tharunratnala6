@@ -3,6 +3,7 @@
 <h3 align="center">Final Year B.Tech CSE (AI & ML) Student | AI Engineer | Software Developer</h3>
 
 <p align="center">
+
 [Portfolio](https://tharunratnala-portfolio.lovable.app/) |
 [GitHub](https://github.com/tharunratnala6) |
 [LinkedIn](https://www.linkedin.com/in/tharunratnala6/)
