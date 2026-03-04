@@ -1,20 +1,26 @@
-<h1 align="center">Hi 👋, I'm Tharun Ratnala</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B6CB7,100:182848&height=200&section=header&text=Tharun%20Ratnala&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
 
 <h3 align="center">Final Year B.Tech CSE (AI & ML) Student | AI Engineer | Software Developer</h3>
 
-<p align="center">
-
-<p align="center">
+<div align="center">
 
 🌐 <a href="https://tharunratnala-portfolio.lovable.app/">Portfolio</a> |
 💻 <a href="https://github.com/tharunratnala6">GitHub</a> |
 💼 <a href="https://www.linkedin.com/in/tharunratnala6/">LinkedIn</a>
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Java+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=600&height=45">
-</p>
+
+</div>
 
 ---
 
@@ -86,64 +92,72 @@ Python • Scikit-learn • Random Forest • XGBoost
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,git,github,mysql,opencv,flask"/>
 
-</p>
+</div>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=tharunratnala6&theme=algolia&row=1&column=6"/>
 
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tharunratnala6&show_icons=true&theme=tokyonight"/>
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunratnala6&layout=compact&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=tharunratnala6&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
 ## 📈 Contribution Activity Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunratnala6&theme=react-dark"/>
 
-</p>
+</div>
 
 ---
 
 ## 👀 Profile Visitors
 
-<p align="center">
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=tharunratnala6&label=Profile%20views&color=0e75b6&style=flat"/>
 
-</p>
+</div>
 
 ---
 
-⭐ Always learning, building and improving.
+⭐ **Always learning, building and improving.**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4B6CB7&height=120&section=footer"/>
+
+</div>
