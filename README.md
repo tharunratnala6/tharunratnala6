@@ -2,7 +2,13 @@
 
 <h3 align="center">Final Year B.Tech CSE (AI & ML) Student | AI Engineer | Software Developer</h3>
 
-[Portfolio](https://tharunratnala-portfolio.lovable.app/) | [GitHub](https://github.com/tharunratnala6) | [LinkedIn](https://www.linkedin.com/in/tharunratnala6/)
+<p align="center">
+
+🌐 <a href="https://tharunratnala-portfolio.lovable.app/">Portfolio</a> |
+💻 <a href="https://github.com/tharunratnala6">GitHub</a> |
+💼 <a href="https://www.linkedin.com/in/tharunratnala6/">LinkedIn</a>
+
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Java+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=600&height=45">
@@ -86,6 +92,16 @@ Python • Scikit-learn • Random Forest • XGBoost
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tharunratnala6&theme=algolia&row=1&column=6"/>
+
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -103,6 +119,26 @@ Python • Scikit-learn • Random Forest • XGBoost
 <p align="center">
 
 <img src="https://streak-stats.demolab.com/?user=tharunratnala6&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunratnala6&theme=react-dark"/>
+
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tharunratnala6&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </p>
 
