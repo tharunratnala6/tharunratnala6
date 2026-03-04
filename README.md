@@ -22,6 +22,24 @@ Final Year B.Tech CSE (AI & ML) Student | AI Engineer | Software Developer
 • Backend Development
 • Software Engineering
 
+---
+
+## 🌐 Connect With Me
+
+📧 Email
+[tharunratnala6@gmail.com](mailto:tharunratnala6@gmail.com)
+
+💼 LinkedIn
+https://www.linkedin.com/in/tharunratnala6/
+
+🌍 Portfolio
+https://tharunratnala-portfolio.lovable.app/
+
+💻 GitHub
+https://github.com/tharunratnala6
+
+---
+
 🚀 Currently building **AI systems and scalable software projects**
 
 ---
@@ -116,22 +134,6 @@ Python • Scikit-learn • Random Forest • XGBoost
 🏅 DeepLearning AI – Coursera
 🏅 AICTE Google AIML Virtual Internship
 🏅 JPMorgan Software Engineering Virtual Experience
-
----
-
-# 🌐 Connect With Me
-
-📧 Email
-[tharunratnala6@gmail.com](mailto:tharunratnala6@gmail.com)
-
-💼 LinkedIn
-https://www.linkedin.com/in/tharunratnala6/
-
-🌍 Portfolio
-https://tharunratnala-portfolio.lovable.app/
-
-💻 GitHub
-https://github.com/tharunratnala6
 
 ---
 
