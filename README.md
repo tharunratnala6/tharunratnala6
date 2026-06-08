@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Java+Developer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Scalable+Applications&center=true&width=700&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI+%26+ML+Enthusiast;Problem+Solver;Building+Scalable+Applications&center=true&width=700&height=45">
 
 </div>
 
