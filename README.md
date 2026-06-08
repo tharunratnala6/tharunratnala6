@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">B.Tech Graduate in Computer Science (AI & ML) | Software Engineer | AI & ML Enthusiast</h3>
+<h3 align="center">B.Tech Graduate in Computer Science (AI & ML) | Aspiring Software Engineer | AI & ML Enthusiast</h3>
 
 <div align="center">
 
